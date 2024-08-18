@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039818237251",
+    "project_id": "social-ifpb-matheus",
+    "storage_bucket": "social-ifpb-matheus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039818237251:android:9751f50716b4d57d6efbf6",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-1bbm1OTXfqlXOdW8lMdV6TABol6NyaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
